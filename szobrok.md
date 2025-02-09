@@ -115,7 +115,7 @@ Remélhetőleg ezúttal arra is képes lesz, hogy elugráljon a rosszakarói el�
 Budapest, Kós Károly stny. 1, 1146
 
 ## Képek
-![drakula kep hianyzik](kolodko_kepek/)
+![](kolodko_kepek/drakula)
 ![](https://lh5.googleusercontent.com/p/AF1QipO8vtkUDlXhM7IWXijvE_KhEsPqYFa6wUzF7wXK=w408-h305-k-no)
 
 ## Rövid leírás
