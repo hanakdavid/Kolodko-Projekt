@@ -240,3 +240,18 @@ A New York Kávéház 2014-ben ünnepelte 120. születésnapját. Az évforduló
 1. Blaha Lujza tér
 2. Lidl
 ---
+
+#FORRÁSOK
+
+https://www.kozterkep.hu/41018/soroslovak
+https://www.kozterkep.hu/41032/dreher-antal
+https://www.errearra.org/kolodko-balta
+https://www.errearra.org/kolodko-holdjaro
+https://welovebudapest.com/cikk/2023/05/09/latnivalok-es-kultura-kolodko-szobor-usankas-beka-parlament-miniszobor/
+https://www.errearra.org/kolodko-drakula
+https://welovebudapest.com/cikk/2022/10/23/latnivalok-es-kultura-uj-kolodko-szobor-neprajzi-muzeum-mellett-sztalin-csizma-1956/
+https://www.kozterkep.hu/47690/micimacko
+https://szallas.hu/programok/kolodko:-noe-barkaja-miniszobor-budapest-p9021
+https://www.errearra.org/kolodko-garfield
+https://www.kozterkep.hu/38742/a-tizennegy-karatos-auto
+https://szallas.hu/programok/kolodko:-buvar-es-a-kulcs-miniszobor-budapest-p9012
