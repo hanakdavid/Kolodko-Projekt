@@ -3,7 +3,12 @@
 
 Kolodko Mihály (ukránul: Михайло Іванович Колодко, latin betűkkel: Mihajlo Ivanovics Kolodko, említik még: Mihail Kolodko, Mykhailo Kolodko neveken is), (Ungvár, Ukrán SZSZK, 1978 –) ukrán-magyar szobrászművész.
                 
-    Kolodko véleménye szerint azok az idők már elmúltak, hogy egy szobor elkészítését központilag határozzák meg; teret kell engedni a művészek és az emberek érdeklődésének is. Így született meg például a 2010-ben Ungváron felállított Lámpagyújtogató szobor is, amely a város szülöttének, Kolja bácsinak alakját örökítette meg.
+    Kolodko véleménye szerint azok az idők már elmúltak,
+    hogy egy szobor elkészítését központilag határozzák meg;
+    teret kell engedni a művészek és az emberek érdeklődésének is.
+    Így született meg például a 2010-ben Ungváron felállított
+    Lámpagyújtogató szobor is, amely a város szülöttének, Kolja bácsinak alakját
+    örökítette meg.
          
     A köztéri szobrok egy más dimenziója született meg azáltal, hogy rátalált a mostanában olyan sok embert érdeklő miniszobrok témájára, melyek szerinte ugyanolyan drámai erővel tudnak hatni a szemlélődőkre, mint az óriási alkotások.
                 
