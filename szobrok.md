@@ -225,7 +225,7 @@ A tizennégy karátos autó szobra 2019 nyarán foglalta el helyét Budapest VII
 Budapest, Dohány u. 53, 1074
 
 ## Képek
-![buvar kep hianyzik](kolodko_kepek/)
+![](kolodko_kepek/buvar.png)
 ![](https://lh5.googleusercontent.com/p/AF1QipM-J0ssQ3QcgKHYvol7dQV68AYF70wyo6I9tvE5=w408-h306-k-no)
 
 ## Rövid leírás
