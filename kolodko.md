@@ -10,9 +10,15 @@ Kolodko Mihály (ukránul: Михайло Іванович Колодко, latin
     Lámpagyújtogató szobor is, amely a város szülöttének, Kolja bácsinak alakját
     örökítette meg.
          
-    A köztéri szobrok egy más dimenziója született meg azáltal, hogy rátalált a mostanában olyan sok embert érdeklő miniszobrok témájára, melyek szerinte ugyanolyan drámai erővel tudnak hatni a szemlélődőkre, mint az óriási alkotások.
+    A köztéri szobrok egy más dimenziója született meg azáltal,
+    hogy rátalált a mostanában olyan sok embert érdeklő miniszobrok témájára,
+    melyek szerinte ugyanolyan drámai erővel tudnak hatni a szemlélődőkre, 
+    mint az óriási alkotások.
                 
-    Első apró alkotásai Ungvár utcáin jelentek meg, és eleinte vegyes fogadtatásra találtak; később, mikor már megszokottá váltak, az emberek megkedvelték őket. A kisméretű szobrok elkészítése onnan eredt, hogy a nagy méretben készülő szobrokat is először kis méretben kell elkészíteni.
+    Első apró alkotásai Ungvár utcáin jelentek meg, és eleinte vegyes
+    fogadtatásra találtak; később, mikor már megszokottá váltak, az emberek
+    megkedvelték őket. A kisméretű szobrok elkészítése onnan eredt, hogy a nagy
+    méretben készülő szobrokat is először kis méretben kell elkészíteni.
                 
     A művésznek nem mindig volt tervei megvalósításához megrendelője, és így anyagi fedezet híján, hogy ötletei ne vesszenek el, elkészítette őket kicsiben. Kolodko, amikor Budapestre költözött a családjával, először is a Főkukac szobrát készítette el, ungvári elődje mintájára. A 15 cm-es szobrocska a Bem rakpart 15. számú ház előtt helyezkedik el a felső rakpart mellvédjén.
                 
