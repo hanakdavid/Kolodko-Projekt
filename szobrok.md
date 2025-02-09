@@ -4,7 +4,6 @@
 Budapest, Dreher Antal út 3, 1106
 ## Képek
 ![](kolodko_kepek/soroslo.jpg)
-<img height="1000px">
 ![](https://m.blog.hu/ba/bakancsban-ket-kereken/image/.external/.thumbs/9f193442959088dcf928be0e96c2dc98_d49afe6e3b4eb7cadfe308837303ec67.jpg)
 
 ## Rövid leírás
