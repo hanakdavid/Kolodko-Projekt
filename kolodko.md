@@ -37,5 +37,7 @@ Kolodko Mihály (ukránul: Михайло Іванович Колодко, latin
                 
     A gerillaszobrászat kifejezés onnan ered, hogy a szobrok engedély nélkül kerültek ki a közterekre,
     bár először nem is volt erre szabályzat.
-<center>
- <img src="kolodko.jpg" style="margin-top: 20px; alt="Kolodko Mihály szobra">
+
+ <img src="kolodko.jpg" style="margin-top: 20px;   display: block;
+  margin-left: auto;
+  margin-right: auto;" alt="Kolodko Mihály szobra">
