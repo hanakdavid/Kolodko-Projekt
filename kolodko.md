@@ -20,12 +20,22 @@ Kolodko Mihály (ukránul: Михайло Іванович Колодко, latin
     megkedvelték őket. A kisméretű szobrok elkészítése onnan eredt, hogy a nagy
     méretben készülő szobrokat is először kis méretben kell elkészíteni.
                 
-    A művésznek nem mindig volt tervei megvalósításához megrendelője, és így anyagi fedezet híján, hogy ötletei ne vesszenek el, elkészítette őket kicsiben. Kolodko, amikor Budapestre költözött a családjával, először is a Főkukac szobrát készítette el, ungvári elődje mintájára. A 15 cm-es szobrocska a Bem rakpart 15. számú ház előtt helyezkedik el a felső rakpart mellvédjén.
+    A művésznek nem mindig volt tervei megvalósításához megrendelője,
+    és így anyagi fedezet híján, hogy ötletei ne vesszenek el, elkészítette
+    őket kicsiben. Kolodko, amikor Budapestre költözött a családjával, 
+    először is a Főkukac szobrát készítette el, ungvári elődje mintájára.
+    A 15 cm-es szobrocska a Bem rakpart 15. számú ház előtt helyezkedik el
+    a felső rakpart mellvédjén.
                 
-    Kolodko kedvenc gyermekkori mesefigurája kelt életre a kis szoborban: azt szerette volna, ha gyermekei is úgy tekintenek rá, mint ő gyermekkorában. Számára azért is volt fontos ez a mesesorozat, mert nézése közben tanulta meg a magyar nyelvet.
+    Kolodko kedvenc gyermekkori mesefigurája kelt életre a kis szoborban:
+    azt szerette volna, ha gyermekei is úgy tekintenek rá, mint ő gyermekkorában.
+    Számára azért is volt fontos ez a mesesorozat, mert nézése közben tanulta meg a magyar nyelvet.
                 
-    Az apró szobrok hamar népszerűséget szereztek maguknak, olyannyira, hogy némelyiket többször is ellopták. Például a Mekk Elek szobornak már a második példánya van kint a téren; viccesen Mekk Elek 2.0-nak hívják a gerillaszoborként elhíresült alkotást.
+    Az apró szobrok hamar népszerűséget szereztek maguknak, olyannyira, hogy némelyiket többször is ellopták.
+    Például a Mekk Elek szobornak már a második példánya van kint a téren;
+    viccesen Mekk Elek 2.0-nak hívják a gerillaszoborként elhíresült alkotást.
                 
-    A gerillaszobrászat kifejezés onnan ered, hogy a szobrok engedély nélkül kerültek ki a közterekre, bár először nem is volt erre szabályzat.
+    A gerillaszobrászat kifejezés onnan ered, hogy a szobrok engedély nélkül kerültek ki a közterekre,
+    bár először nem is volt erre szabályzat.
 
  <img src="kolodko.jpg" alt="Kolodko Mihály szobra">
