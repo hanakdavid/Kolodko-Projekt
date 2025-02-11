@@ -165,7 +165,7 @@ A szobor Kolodko Mihály stílusának és a magyar irodalom iránti tiszteletén
 2. Bajza utca
 ---
 
-# 9. Noé bárkája miniiszobor
+# 9. Noé bárkája miniszobor
 
 ## Hol van?
 Budapest, Bethlen Gábor tér, 1071
