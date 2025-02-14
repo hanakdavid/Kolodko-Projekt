@@ -1,11 +1,13 @@
 # Kolodko Mihály
 ## Bemutatkozás:
 
-| Kolodko Mihály | .
+<center>
+
+| Kolodko Mihály ||
 | ----------- | ----------- |
-| Állampolgársága | <a href="https://hu.wikipedia.org/wiki/Szovjetuni%C3%B3">szovjet <a/>, <a href="https://hu.wikipedia.org/wiki/Ukrajna"> ukrán </a> |
-| Született | 1978 |
-| Foglalkozása | <a href="https://hu.wikipedia.org/wiki/Szobr%C3%A1szm%C5%B1v%C3%A9sz">szobrász |
+| Állampolgársága: | <a href="https://hu.wikipedia.org/wiki/Szovjetuni%C3%B3">szovjet <a/>, <a href="https://hu.wikipedia.org/wiki/Ukrajna"> ukrán </a> |
+| Született: | 1978 |
+| Foglalkozása: | <a href="https://hu.wikipedia.org/wiki/Szobr%C3%A1szm%C5%B1v%C3%A9sz">szobrász |
 
 
 Kolodko Mihály (ukránul: Михайло Іванович Колодко, latin betűkkel: Mihajlo Ivanovics Kolodko, említik még: Mihail Kolodko, Mykhailo Kolodko neveken is), (Ungvár, Ukrán SZSZK, 1978 –) ukrán-magyar szobrászművész.
