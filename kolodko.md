@@ -1,7 +1,6 @@
 # Kolodko Mihály
 ## Bemutatkozás:
 
-<center>
 
 | Kolodko Mihály | |
 | ----------- | ----------- |
