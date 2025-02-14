@@ -92,7 +92,6 @@ Budapest, Id. Antall József rkp., 1055
 ## Képek
 [<img src="kolodko_kepek/usanka.jpg" width="1000"/>](kolodko_kepek/usanka.jpg)
 [<img src="https://media.fidelio.hu/2023/05/09/345937881_636183285035353_7061499860684323661_n-141344-[1683634514].png" width="1000"/>](https://media.fidelio.hu/2023/05/09/345937881_636183285035353_7061499860684323661_n-141344-[1683634514].png)
-![](https://media.fidelio.hu/2023/05/09/345937881_636183285035353_7061499860684323661_n-141344-[1683634514].png)
 
 ## Rövid leírás
 
