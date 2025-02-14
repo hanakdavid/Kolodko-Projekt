@@ -47,8 +47,8 @@ A gyárat fia, ifj. Dreher Antal 7 évvel később 21 éves korában vette át �
 Budapest, Szabadság tér 15, 1054
 
 ## Képek
-![](kolodko_kepek/balta.jpg)
-![](https://kirandulastervezo.hu/photos-md/kolodko-balta.jpg)
+[<img src="kolodko_kepek/balta.jpg" width="1000"/>](kolodko_kepek/balta.jpg)
+[<img src="https://kirandulastervezo.hu/photos-md/kolodko-balta.jpg" width="1000"/>](https://kirandulastervezo.hu/photos-md/kolodko-balta.jpg)
 
 ## Rövid leírás
 A Balta miniszobor nem más, mint Kolodko Mihály frappáns válasza a rongálásra. Elkészítésénél azt a „gyilkos” fejszét vette alapul, amellyel kiebrudalták az Usánkát. Elődjére emlékét pedig azzal őrzi, hogy egy hasonló bronzpárnához erősítették.
@@ -69,8 +69,8 @@ De nem sokáig.
 Budapest, Hold utca 12, 1054
 
 ## Képek
-![](kolodko_kepek/holdjaro.jpg)
-![](https://lh5.googleusercontent.com/p/AF1QipNFpGxUzZ33LUc7l8asX7IKVxpNeGCo5sop75Q=w408-h306-k-no)
+[<img src="kolodko_kepek/holdjaro.jpg" width="1000"/>](kolodko_kepek/holdjaro.jpg)
+[<img src="https://lh5.googleusercontent.com/p/AF1QipNFpGxUzZ33LUc7l8asX7IKVxpNeGCo5sop75Q=w408-h306-k-no" width="1000"/>](https://lh5.googleusercontent.com/p/AF1QipNFpGxUzZ33LUc7l8asX7IKVxpNeGCo5sop75Q=w408-h306-k-no)
 
 ## Rövid leírás
 
