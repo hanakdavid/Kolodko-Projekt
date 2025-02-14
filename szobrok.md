@@ -90,7 +90,8 @@ A magyar származású, NASA-díjas amerikai mérnök, Pavlics Ferenc előtt tis
 Budapest, Id. Antall József rkp., 1055
 
 ## Képek
-![](kolodko_kepek/usanka.jpg)
+[<img src="kolodko_kepek/usanka.jpg" width="1000"/>](kolodko_kepek/usanka.jpg)
+[<img src="https://media.fidelio.hu/2023/05/09/345937881_636183285035353_7061499860684323661_n-141344-[1683634514].png" width="1000"/>](https://media.fidelio.hu/2023/05/09/345937881_636183285035353_7061499860684323661_n-141344-[1683634514].png)
 ![](https://media.fidelio.hu/2023/05/09/345937881_636183285035353_7061499860684323661_n-141344-[1683634514].png)
 
 ## Rövid leírás
@@ -115,8 +116,8 @@ Remélhetőleg ezúttal arra is képes lesz, hogy elugráljon a rosszakarói el�
 Budapest, Kós Károly stny. 1, 1146
 
 ## Képek
-![](kolodko_kepek/drakula.jpg)
-![](https://lh5.googleusercontent.com/p/AF1QipO8vtkUDlXhM7IWXijvE_KhEsPqYFa6wUzF7wXK=w408-h305-k-no)
+[<img src="kolodko_kepek/drakula.jpg" width="1000"/>](kolodko_kepek/drakula.jpg)
+[<img src="https://lh5.googleusercontent.com/p/AF1QipO8vtkUDlXhM7IWXijvE_KhEsPqYFa6wUzF7wXK=w408-h305-k-no" width="1000"/>](https://lh5.googleusercontent.com/p/AF1QipO8vtkUDlXhM7IWXijvE_KhEsPqYFa6wUzF7wXK=w408-h305-k-no)
 
 ## Rövid leírás
 
@@ -135,8 +136,8 @@ Aztán azt is érdemes tudni, hogy a magyarországi Vajdahunyad vára bizony nem
 Budapest, Dózsa György út 35, 1146
 
 ## Képek
-![](kolodko_kepek/sztalincsizma.jpg)
-![](https://welovebudapest.com/i/f5/kolodko1.exact1980w.jpeg)
+[<img src="kolodko_kepek/sztalincsizma.jpg" width="1000"/>](kolodko_kepek/sztalincsizma.jpg)
+[<img src="https://welovebudapest.com/i/f5/kolodko1.exact1980w.jpeg" width="1000"/>](https://welovebudapest.com/i/f5/kolodko1.exact1980w.jpeg)
 
 ## Rövid leírás
 
