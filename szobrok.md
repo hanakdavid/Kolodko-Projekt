@@ -247,31 +247,37 @@ A New York Kávéház 2014-ben ünnepelte 120. születésnapját. Az évforduló
 ## Szabadság tér
 
 A Szabadság tér 1846-ban még sétatérként létezett, 1900-tól kapta nevét. 1786 és 1898 között itt állt az Újépület, amely kaszárnya, laktanya és börtön is volt, számos kivégzéssel, köztük Batthyány Lajos miniszterelnökével. Az épület bontása után kapta a tér a Szabadság tér nevet. A tér alatt a Rákosi-bunker található, valamint mélygarázs és interaktív szökőkút is. Ma park és játszótér díszíti, népszerű pihenőhely.
+
 [<img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/e2/18/8e/memoriale-dell-esercito.jpg?w=900&h=-1&s=1" width="1000"/>](https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/e2/18/8e/memoriale-dell-esercito.jpg?w=900&h=-1&s=1)
 
 ## Országház
 
 Az Országház Budapest egyik legismertebb épülete, a magyar parlament székhelye. 1885 és 1904 között épült Steindl Imre tervei alapján, neogótikus stílusban. Az épület impozáns homlokzata és a kupola kiemelkedő jellemzői. A parlamenti ülések helyszínéül szolgál, de látogatók számára is nyitva áll, és a magyar államiság szimbóluma. Az Országház az UNESCO Világörökség része, és számos jelentős történelmi esemény színhelye volt.
+
 [<img src="https://www.buvu.hu/files/e/41064/poster-orszaghaz-budapest.jpeg" width="1000"/>](https://www.buvu.hu/files/e/41064/poster-orszaghaz-budapest.jpeg)
 
 ## Kossuth Lajos tér
 
 A Kossuth Lajos tér Budapest szívében található, és fontos politikai és történelmi szerepet játszik. Itt helyezkedik el az Országház, valamint a tér körül számos jelentős épület, mint a Kossuth-emlékmű és a Vértanúk emléke. A tér a magyar történelem fontos eseményeinek színhelye, többek között a 1848-as forradalom idején. A közelmúltban átfogó felújításon esett át, modern parkosítással és sétálóterületekkel, így a tér ma a pihenés és a politikai események központja.
+
 [<img src="https://hovamenjunk.hu/wp-content/uploads/2024/10/Kossuth-Lajos-ter3.webp" width="1000"/>](https://hovamenjunk.hu/wp-content/uploads/2024/10/Kossuth-Lajos-ter3.webp)
 
 ## Hősök tere
 
 A Hősök tere Budapest egyik legnagyobb és legismertebb tere, mely a város központjában található, a Városliget bejáratánál. A tér közepén álló Millenniumi Emlékmű a magyar történelem kiemelkedő alakjait ábrázolja, köztük a honfoglaló vezéreket és más fontos személyeket. Az emlékmű mellett két nagy oszlopon elhelyezett szobrok is láthatók. A Hősök tere a magyar nemzeti ünnepek, valamint egyéb rendezvények helyszíne, és a világörökség része.
+
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Heroes_Square_Budapest_2010_01.jpg/1200px-Heroes_Square_Budapest_2010_01.jpg" width="1000"/>](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Heroes_Square_Budapest_2010_01.jpg/1200px-Heroes_Square_Budapest_2010_01.jpg)
 
 ## Városliget
 
 A Hősök tere Budapest egyik legismertebb és legnagyobb tere, a Városliget bejáratánál. Az 1896-os millenniumi ünnepség alkalmából alakították ki. Központjában a Millenniumi Emlékmű áll, amely a magyar történelem fontos alakjait ábrázolja, többek között a honfoglaló vezéreket. A tér két oldalán található a Műcsarnok és a Szépművészeti Múzeum. A Hősök tere nemcsak a nemzeti ünnepek helyszíne, hanem a város egyik jelentős turisztikai látványossága is.
-[<img src="" width="1000"/>]()
+
+[<img src="https://i.szalas.hu/pois/4090/original/77808.jpg" width="1000"/>](https://i.szalas.hu/pois/4090/original/77808.jpg)
 
 ## Keleti pályaudvar
 
 A Keleti Pályaudvar Budapest egyik legforgalmasabb vasútállomása, amely 1884-ben nyílt meg. Az épület neogótikus stílusban készült, és impozáns üvegtetője, valamint díszes homlokzata figyelemre méltó. A pályaudvar nemcsak fontos közlekedési csomópont, hanem a város egyik szimbóluma is. A Keleti Pályaudvar a nemzetközi és belföldi vonatok induló és érkező helyszíne, és a város közlekedésének egyik meghatározó eleme.
+
 [<img src="https://magazin.mavcsoport.hu/sites/default/files/styles/fohir_800x600/public/2024-08/_dsc4766_kicsi.jpg?itok=7K3omP2N" width="1000"/>](https://magazin.mavcsoport.hu/sites/default/files/styles/fohir_800x600/public/2024-08/_dsc4766_kicsi.jpg?itok=7K3omP2N)
 
 ---
