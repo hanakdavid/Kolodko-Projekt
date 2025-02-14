@@ -242,6 +242,33 @@ A New York Kávéház 2014-ben ünnepelte 120. születésnapját. Az évforduló
 2. Lidl
 ---
 
+# Nevezetességek a közelben részletesebben:
+
+## Szabadság tér
+
+A Szabadság tér 1846-ban még sétatérként létezett, 1900-tól kapta nevét. 1786 és 1898 között itt állt az Újépület, amely kaszárnya, laktanya és börtön is volt, számos kivégzéssel, köztük Batthyány Lajos miniszterelnökével. Az épület bontása után kapta a tér a Szabadság tér nevet. A tér alatt a Rákosi-bunker található, valamint mélygarázs és interaktív szökőkút is. Ma park és játszótér díszíti, népszerű pihenőhely.
+
+## Országház
+
+Az Országház Budapest egyik legismertebb épülete, a magyar parlament székhelye. 1885 és 1904 között épült Steindl Imre tervei alapján, neogótikus stílusban. Az épület impozáns homlokzata és a kupola kiemelkedő jellemzői. A parlamenti ülések helyszínéül szolgál, de látogatók számára is nyitva áll, és a magyar államiság szimbóluma. Az Országház az UNESCO Világörökség része, és számos jelentős történelmi esemény színhelye volt.
+
+## Kossuth Lajos tér
+
+A Kossuth Lajos tér Budapest szívében található, és fontos politikai és történelmi szerepet játszik. Itt helyezkedik el az Országház, valamint a tér körül számos jelentős épület, mint a Kossuth-emlékmű és a Vértanúk emléke. A tér a magyar történelem fontos eseményeinek színhelye, többek között a 1848-as forradalom idején. A közelmúltban átfogó felújításon esett át, modern parkosítással és sétálóterületekkel, így a tér ma a pihenés és a politikai események központja.
+
+## Hősök tere
+
+A Hősök tere Budapest egyik legnagyobb és legismertebb tere, mely a város központjában található, a Városliget bejáratánál. A tér közepén álló Millenniumi Emlékmű a magyar történelem kiemelkedő alakjait ábrázolja, köztük a honfoglaló vezéreket és más fontos személyeket. Az emlékmű mellett két nagy oszlopon elhelyezett szobrok is láthatók. A Hősök tere a magyar nemzeti ünnepek, valamint egyéb rendezvények helyszíne, és a világörökség része.
+
+## Városliget
+
+A Hősök tere Budapest egyik legismertebb és legnagyobb tere, a Városliget bejáratánál. Az 1896-os millenniumi ünnepség alkalmából alakították ki. Központjában a Millenniumi Emlékmű áll, amely a magyar történelem fontos alakjait ábrázolja, többek között a honfoglaló vezéreket. A tér két oldalán található a Műcsarnok és a Szépművészeti Múzeum. A Hősök tere nemcsak a nemzeti ünnepek helyszíne, hanem a város egyik jelentős turisztikai látványossága is.
+
+## Keleti pályaudvar
+
+A Keleti Pályaudvar Budapest egyik legforgalmasabb vasútállomása, amely 1884-ben nyílt meg. Az épület neogótikus stílusban készült, és impozáns üvegtetője, valamint díszes homlokzata figyelemre méltó. A pályaudvar nemcsak fontos közlekedési csomópont, hanem a város egyik szimbóluma is. A Keleti Pályaudvar a nemzetközi és belföldi vonatok induló és érkező helyszíne, és a város közlekedésének egyik meghatározó eleme.
+
+---
 # FORRÁSOK
 
 https://www.kozterkep.hu/41018/soroslovak
