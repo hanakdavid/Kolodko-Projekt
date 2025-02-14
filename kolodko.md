@@ -1,7 +1,7 @@
 # Kolodko Mihály
 ## Bemutatkozás:
 
-| Kolodko Mihály ||
+| Kolodko Mihály | Adatok |
 | ----------- | ----------- |
 | Állampolgársága: | <a href="https://hu.wikipedia.org/wiki/Szovjetuni%C3%B3">szovjet <a/>, <a href="https://hu.wikipedia.org/wiki/Ukrajna"> ukrán </a> |
 | Született: | 1978 |
