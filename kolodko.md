@@ -47,7 +47,7 @@ Kolodko Mihály (ukránul: Михайло Іванович Колодко, latin
 [<img src="kolodko.jpg" width="1000"/>](kolodko.jpg)
 #
 
-**Kolodkó: A modern szobrász művészete és öröksége**
+### Kolodkó: A modern szobrász művészete és öröksége
 
 Kolodkó Miklós, a kortárs magyar szobrászművész, aki a modern művészet egyik izgalmas alakja, egyedülálló módon ötvözi a hagyományos szobrászati technikákat a modern koncepciókkal és formákkal. Munkássága nemcsak Magyarországon, hanem nemzetközi szinten is elismert, és jelentős hatással volt a kortárs művészetekre. Kolodkó munkái elsősorban a figuratív szobrászatra, valamint a modern térformák és absztrakciók világára építenek, miközben mindig a társadalmi és filozófiai kérdéseket is érintik.
 
