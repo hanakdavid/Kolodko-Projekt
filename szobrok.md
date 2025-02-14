@@ -4,8 +4,7 @@
 Budapest, Dreher Antal út 3, 1106
 ## Képek
 [<img src="kolodko_kepek/soroslo.jpg" width="1000"/>](kolodko_kepek/soroslo.jpg)
-
-![<img src="https://m.blog.hu/ba/bakancsban-ket-kereken/image/.external/.thumbs/9f193442959088dcf928be0e96c2dc98_d49afe6e3b4eb7cadfe308837303ec67.jpg" width="1000"/>](https://m.blog.hu/ba/bakancsban-ket-kereken/image/.external/.thumbs/9f193442959088dcf928be0e96c2dc98_d49afe6e3b4eb7cadfe308837303ec67.jpg)
+[<img src="[kolodko_kepek/soroslo.jpg](https://m.blog.hu/ba/bakancsban-ket-kereken/image/.external/.thumbs/9f193442959088dcf928be0e96c2dc98_d49afe6e3b4eb7cadfe308837303ec67.jpg)" width="1000"/>](https://m.blog.hu/ba/bakancsban-ket-kereken/image/.external/.thumbs/9f193442959088dcf928be0e96c2dc98_d49afe6e3b4eb7cadfe308837303ec67.jpg)
 
 ## Rövid leírás
 A Kőbányai Serfőző Társaságot 1854-ben alapították, és mai is működik, mint Dreher Sörgyár. A sörfőzdét idősebb Dreher Antal virágoztatta, fel saját találmánya, a ma Vienna Lágerként ismert sör révén – az egyik szobor őt is ábrázolja. A családja kezében a Kőbányai Sörgyár hamarosan az ország legnagyobb sörgyára lett, amely tavaly ünnepelte 165 éves jubileumát.
