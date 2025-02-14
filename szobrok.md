@@ -154,8 +154,8 @@ A Néprajzi Múzeum Hősök tere felőli oldalán lévő padkán helyezte el Kol
 Budapest, Damjanich u. 27, 1071
 
 ## Képek
-![](kolodko_kepek/micmacko.jpg)
-![](https://www.startlap.hu/utazas/uploads/sites/3/2023/06/kolodko-micimacko-2.jpg)
+[<img src="kolodko_kepek/micmacko.jpg" width="1000"/>](kolodko_kepek/micmacko.jpg)
+[<img src="https://www.startlap.hu/utazas/uploads/sites/3/2023/06/kolodko-micimacko-2.jpg" width="1000"/>](https://www.startlap.hu/utazas/uploads/sites/3/2023/06/kolodko-micimacko-2.jpg)
 
 ## Rövid leírás
 
@@ -172,8 +172,8 @@ A szobor Kolodko Mihály stílusának és a magyar irodalom iránti tiszteletén
 Budapest, Bethlen Gábor tér, 1071
 
 ## Képek
-![](kolodko_kepek/noebarka.jpg)
-![](https://lh5.googleusercontent.com/p/AF1QipPa0DYzxtRjRaWGFG0kJXHkYJ5N2yTNpgQTKkg=w408-h408-k-no)
+[<img src="kolodko_kepek/noebarka.jpg" width="1000"/>](kolodko_kepek/noebarka.jpg)
+[<img src="https://lh5.googleusercontent.com/p/AF1QipPa0DYzxtRjRaWGFG0kJXHkYJ5N2yTNpgQTKkg=w408-h408-k-no" width="1000"/>](https://lh5.googleusercontent.com/p/AF1QipPa0DYzxtRjRaWGFG0kJXHkYJ5N2yTNpgQTKkg=w408-h408-k-no)
 
 ## Rövid leírás
 
@@ -190,8 +190,8 @@ Kolodko Mihály szobrai általában mélyebb, filozófiai üzenetet hordoznak, m
 Budapest, Dembinszky u. 4-sz. szemben, 1071
 
 ## Képek
-![](kolodko_kepek/garfield.jpg)
-![](https://lh5.googleusercontent.com/p/AF1QipPWd49IhCk9VA_NxpiWBOSmbylZOi6_3ilIKHfO=w408-h544-k-no)
+[<img src="kolodko_kepek/garfield.jpg" width="1000"/>](kolodko_kepek/garfield.jpg)
+[<img src="https://lh5.googleusercontent.com/p/AF1QipPWd49IhCk9VA_NxpiWBOSmbylZOi6_3ilIKHfO=w408-h544-k-no" width="1000"/>](https://lh5.googleusercontent.com/p/AF1QipPWd49IhCk9VA_NxpiWBOSmbylZOi6_3ilIKHfO=w408-h544-k-no)
 
 ## Rövid leírás
 
@@ -208,8 +208,9 @@ Kolodko Mihály, akit a főváros közterületein elhelyezett apró alkotásair�
 Budapest, Hevesi Sándor tér, 1077
 
 ## Képek
-![](kolodko_kepek/14kauto.jpg)
-![](https://lh5.googleusercontent.com/p/AF1QipNXyRNkLBMvfH27cxteiqsCd8dCAMTlovzxQn7G=w426-h240-k-no)
+
+[<img src="kolodko_kepek/14kauto.jpg" width="1000"/>](kolodko_kepek/14kauto.jpg)
+[<img src="https://lh5.googleusercontent.com/p/AF1QipNXyRNkLBMvfH27cxteiqsCd8dCAMTlovzxQn7G=w426-h240-k-no" width="1000"/>](https://lh5.googleusercontent.com/p/AF1QipNXyRNkLBMvfH27cxteiqsCd8dCAMTlovzxQn7G=w426-h240-k-no)
 
 ## Rövid leírás
 
@@ -226,8 +227,8 @@ A tizennégy karátos autó szobra 2019 nyarán foglalta el helyét Budapest VII
 Budapest, Dohány u. 53, 1074
 
 ## Képek
-![](kolodko_kepek/buvar.png)
-![](https://lh5.googleusercontent.com/p/AF1QipM-J0ssQ3QcgKHYvol7dQV68AYF70wyo6I9tvE5=w408-h306-k-no)
+[<img src="kolodko_kepek/buvar.png" width="1000"/>](kolodko_kepek/buvar.png)
+[<img src="https://lh5.googleusercontent.com/p/AF1QipM-J0ssQ3QcgKHYvol7dQV68AYF70wyo6I9tvE5=w408-h306-k-no" width="1000"/>](https://lh5.googleusercontent.com/p/AF1QipM-J0ssQ3QcgKHYvol7dQV68AYF70wyo6I9tvE5=w408-h306-k-no)
 
 ## Rövid leírás
 
