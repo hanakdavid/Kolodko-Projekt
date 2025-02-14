@@ -22,8 +22,8 @@ A gyár előtt áll a szobor, amely egy valódi mészkőhídon áll és olyan s�
 ## Hol van?
 Budapest, Dreher Antal út 3, 1105
 ## Képek
-![](kolodko_kepek/dreherantal.jpg)
-![](https://kep.cdn.indexvas.hu/welove-media/dd/dreher-antal-1-kolodko-2020.exact1980w.JPG)
+[<img src=kolodko_kepek/dreherantal.jpg" width="1000"/>](kolodko_kepek/dreherantal.jpg)
+[<img src="https://kep.cdn.indexvas.hu/welove-media/dd/dreher-antal-1-kolodko-2020.exact1980w.JPG" width="1000"/>](https://kep.cdn.indexvas.hu/welove-media/dd/dreher-antal-1-kolodko-2020.exact1980w.JPG)
 
 ## Rövid leírás
 A Dreher Sörgyárak előtt a söröskocsit húzó lovacskák szobra, a gyár udvarán, a műemlék ipari épületek között az alapító, id. Dreher Antal (1810-1863) szobra került felállításra.
