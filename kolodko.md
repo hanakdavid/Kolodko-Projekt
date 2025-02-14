@@ -49,4 +49,4 @@ Kolodko Mihály (ukránul: Михайло Іванович Колодко, latin
   margin-right: auto;" alt="Kolodko Mihály szobra">
 
 
-  [<img src="https://www.fuggonyneked.hu/images/joshop/products/kepek/70-100/59.jpg" width="1000"/>](https://www.fuggonyneked.hu/images/joshop/products/kepek/70-100/59.jpg)
+  [<img src="https://www.fuggonyneked.hu/images/joshop/products/kepek/70-100/59.jpg" width="200"/>](https://www.fuggonyneked.hu/images/joshop/products/kepek/70-100/59.jpg)
