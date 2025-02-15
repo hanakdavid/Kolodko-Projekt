@@ -63,28 +63,7 @@ De nem sokáig.
 
 ---
 
-# 4. Holdjáró miniszobor
-
-## Hol van?
-Budapest, Hold utca 12, 1054
-
-## Képek
-[<img src="kolodko_kepek/holdjaro.jpg" width="1000"/>](kolodko_kepek/holdjaro.jpg)
-[<img src="https://lh5.googleusercontent.com/p/AF1QipNFpGxUzZ33LUc7l8asX7IKVxpNeGCo5sop75Q=w408-h306-k-no" width="1000"/>](https://lh5.googleusercontent.com/p/AF1QipNFpGxUzZ33LUc7l8asX7IKVxpNeGCo5sop75Q=w408-h306-k-no)
-
-## Rövid leírás
-
-Mihail Kolodko (Kolodkó Mihály) ukrán-magyar szobrászművész, aki apró szobrairől ismert, melyekkel számtalan helyen találkozhatunk a városban.
-A Hold utcában, néhány lépésre a Batthyányi-örökmécsestől található Kolodko holdjáró miniszobra. A bronz alkotás egy gömb alakú térelem felületén robog, benne pedig egy integető asztronauta köszönti a járókelőket.
-A magyar származású, NASA-díjas amerikai mérnök, Pavlics Ferenc előtt tiszteleg a miniszobor, aki a világon elsőként hozott létre olyan holdjárművet, ami a távoli égitest felszínén is üzemképes maradt.
-
-## Nevezetességek a közelben
-1. atthyány Lajos-örökmécses
-2. Emléktábla az aradi vértanúkról
-
----
-
-# 5. Usánka visszatér miniszobor
+# 4. Usánka visszatér miniszobor
 
 ## Hol van?
 Budapest, Id. Antall József rkp., 1055
@@ -109,45 +88,7 @@ Remélhetőleg ezúttal arra is képes lesz, hogy elugráljon a rosszakarói el�
 
 ---
 
-# 6. Drakula miniszobor
-
-## Hol van?
-Budapest, Kós Károly stny. 1, 1146
-
-## Képek
-[<img src="kolodko_kepek/drakula.jpg" width="1000"/>](kolodko_kepek/drakula.jpg)
-[<img src="https://lh5.googleusercontent.com/p/AF1QipO8vtkUDlXhM7IWXijvE_KhEsPqYFa6wUzF7wXK=w408-h305-k-no" width="1000"/>](https://lh5.googleusercontent.com/p/AF1QipO8vtkUDlXhM7IWXijvE_KhEsPqYFa6wUzF7wXK=w408-h305-k-no)
-
-## Rövid leírás
-
-Kolodko Drakula szobránál sokat morfondíroztunk, vajon miért került a Vajdahunyad várához. Már a Kolodko szobor előtt is vaciláltunk, ugyanis van még egy Drakula mellszobor, ami 2003-ban került oda, egyébként nem messze Kolodko Drakulájától. A vacilálásunk oka az, hogy Drakula gróf, azaz az életben Vlad Tepes hírhedt havasalföldi vajda törcsvári. És nem vajdahunyadi. Mindkét város vára Erdélyben található, sőt, a világhírűvé vált Drakula film főszereplője, Drakula gróf is erdélyi, Lugosi Bélának hívták (egyike azon magyaroknak, akik csillagot kaptak a hollywoodi hírességek sétányán). Szóval ez jó, szuper, hogy van egy világhírű sztorink, világhírű színésszel.
-
-Aztán azt is érdemes tudni, hogy a magyarországi Vajdahunyad vára bizony nem az erdélyi Vajdahunyad Várának a másolata. Hanem egy építészzseni, Alpár Ignác műve, aki a történelmi Magyarország legjelentősebb épületeinek formáit (pl. a Hunyadi család Vajdahunyadban található várának részlete, a segesvári Apostol-torony részlete, a jáki és lébényi templom részlete, brassói Katalin bástya részlete, stb.) ötvözte egybe, itt Budapesten, az 1896-os Millenniumra.
-
-## Nevezetességek a közelben
-1. Vajdahunyad vára
-2. Városliget
----
-
-# 7. Sztálin csizmája miniszobor
-
-## Hol van?
-Budapest, Dózsa György út 35, 1146
-
-## Képek
-[<img src="kolodko_kepek/sztalincsizma.jpg" width="1000"/>](kolodko_kepek/sztalincsizma.jpg)
-[<img src="https://welovebudapest.com/i/f5/kolodko1.exact1980w.jpeg" width="1000"/>](https://welovebudapest.com/i/f5/kolodko1.exact1980w.jpeg)
-
-## Rövid leírás
-
-A Néprajzi Múzeum Hősök tere felőli oldalán lévő padkán helyezte el Kolodko Mihály legújabb szobrát, melynek az AMONG US (vagyis a ’Közöttünk’) címet adta. A miniszobor a ledöntött Sztálin-szobor csizmáit ábrázolja (a kilógó csontokkal), és egy gördeszkát. A szobor az Ötvenhatosok terére került, egykor ugyanis itt állt az a Sztálin-szobor, melyből az 1956-os forradalom során történt ledöntése után csak a két csizma maradt ott. Emiatt az egykori Sztálin teret pár napig „Csizma térnek” is hívták. A gördeszka pedig valószínűleg arra utal, hogy a nemrégiben átadott múzeum egy óriási gördeszkapályára hasonlít.
-
-## Nevezetességek a közelben
-1. Néprajzi Múzeum
-2. Hősök tere
----
-
-# 8. Micimackó miniszobor
+# 5. Micimackó miniszobor
 
 ## Hol van?
 Budapest, Damjanich u. 27, 1071
@@ -165,7 +106,7 @@ A szobor Kolodko Mihály stílusának és a magyar irodalom iránti tiszteletén
 2. Bajza utca
 ---
 
-# 9. Noé bárkája miniszobor
+# 6. Noé bárkája miniszobor
 
 ## Hol van?
 Budapest, Bethlen Gábor tér, 1071
@@ -183,25 +124,7 @@ Kolodko Mihály szobrai általában mélyebb, filozófiai üzenetet hordoznak, m
 2. Keleti pályaudvar
 ---
 
-# 10. Garfield miniszobor
-
-## Hol van?
-Budapest, Dembinszky u. 4-sz. szemben, 1071
-
-## Képek
-[<img src="kolodko_kepek/garfield.jpg" width="1000"/>](kolodko_kepek/garfield.jpg)
-[<img src="https://lh5.googleusercontent.com/p/AF1QipPWd49IhCk9VA_NxpiWBOSmbylZOi6_3ilIKHfO=w408-h544-k-no" width="1000"/>](https://lh5.googleusercontent.com/p/AF1QipPWd49IhCk9VA_NxpiWBOSmbylZOi6_3ilIKHfO=w408-h544-k-no)
-
-## Rövid leírás
-
-Kolodko Mihály, akit a főváros közterületein elhelyezett apró alkotásairól ismert meg a város, majd az egész ország, egyébként nem szereti, ha miniszobroknak nevezik a műveit, ő mini emlékműveknek tekinti őket. Bár szakmai berkekben megoszlanak a vélemények a munkáiról (Pólya Zsombor képzőművész például bedobozolta Kolodko Dunakorzón felállított, Roskovics Ignác festőt ábrázoló szobrát), az emberek többsége szereti a város különböző pontjain elhelyezett alkotásokat, és a turisták is rendszeresen fotózkodnak velük. 46 évvel ezelőtt, 1978. június 19-én jelent meg először Jim Davis alkotásában az első, pár képből álló Garfield-képregény az újságokban – a jeles dátum alkalmából Koldoko Mihály szobrászművész pedig most Garfield figuráját dobta fel Budapest VII. kerületének egyik pontjára.
-
-## Nevezetességek a közelben
-1. Állatorvostudományi Egyetem
-2. Keleti pályaudvar
----
-
-# 11. A tizennégy karátos autó miniszobor
+# 7. A tizennégy karátos autó miniszobor
 
 ## Hol van?
 Budapest, Hevesi Sándor tér, 1077
@@ -220,7 +143,7 @@ A tizennégy karátos autó szobra 2019 nyarán foglalta el helyét Budapest VII
 2. Rózsák tere
 ---
 
-# 12. A búvár és a kulcs miniszobor
+# 8. A búvár és a kulcs miniszobor
 
 ## Hol van?
 Budapest, Dohány u. 53, 1074
